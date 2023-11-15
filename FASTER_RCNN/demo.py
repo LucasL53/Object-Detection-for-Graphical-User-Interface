@@ -35,7 +35,6 @@ from model.utils.net_utils import save_net, load_net, vis_detections
 from model.utils.blob import im_list_to_blob
 from model.faster_rcnn.vgg16 import vgg16
 from model.faster_rcnn.resnet import resnet
-import pdb
 
 try:
     xrange          # Python 2

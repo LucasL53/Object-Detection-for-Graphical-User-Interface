@@ -1,10 +1,7 @@
 setup.py
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/vision.cpp
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/cpu/ROIAlign_cpu.cpp
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/cpu/nms_cpu.cpp
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/cuda/ROIAlign_cuda.cu
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/cuda/ROIPool_cuda.cu
-/home/cheer/Project/UIObjectDetection/Models/DL_models_READY@USE/FASTER_RCNN/lib/model/csrc/cuda/nms.cu
+/Users/yunseolee/Documents/GitHub/Object-Detection-for-Graphical-User-Interface/FASTER_RCNN/lib/model/csrc/vision.cpp
+/Users/yunseolee/Documents/GitHub/Object-Detection-for-Graphical-User-Interface/FASTER_RCNN/lib/model/csrc/cpu/ROIAlign_cpu.cpp
+/Users/yunseolee/Documents/GitHub/Object-Detection-for-Graphical-User-Interface/FASTER_RCNN/lib/model/csrc/cpu/nms_cpu.cpp
 datasets/__init__.py
 datasets/coco.py
 datasets/ds_utils.py
@@ -77,10 +74,6 @@ model/utils/blob.py
 model/utils/config.py
 model/utils/logger.py
 model/utils/net_utils.py
-pycocotools/__init__.py
-pycocotools/coco.py
-pycocotools/cocoeval.py
-pycocotools/mask.py
 roi_data_layer/__init__.py
 roi_data_layer/minibatch.py
 roi_data_layer/roibatchLoader.py

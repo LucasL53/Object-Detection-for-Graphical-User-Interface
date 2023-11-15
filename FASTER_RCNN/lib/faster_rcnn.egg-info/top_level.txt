@@ -1,4 +1,3 @@
 datasets
 model
-pycocotools
 roi_data_layer
